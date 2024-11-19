@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Basic Web Page </title>
+<title> Qqgredys </title>
 <link rel="stylesheet"
 href="style.css">
 </head>
